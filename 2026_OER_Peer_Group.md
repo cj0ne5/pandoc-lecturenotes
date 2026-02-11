@@ -74,13 +74,23 @@ additional notes, links, and examples.
 :::
 
 ::: slide
+## Our DE Program Has Some Unique Differences
+
+- Cohort model - we have the same students all four years
+- Mixing CS/IT Courses
+    - Thanks to NOVA for working with us on prerequisite requirements
+- Backwards Design
+    - At the end of second year, students have a portfolio demonstrating
+    full-stack web development experience
+    - And are prepared to continue to a four-year universty
+:::
+
+::: slide
 ## Integrated Pathway
 
 - Tightly-coupled courses
 - Strict pre-requisites
 - Emphasis on full-stack web development
-    - At the end of second year, students have a portfolio demonstrating
-    full-stack web development experience
 - Online portfolio maintained throughout the pathway
 :::
 
@@ -153,6 +163,8 @@ students are invited to contribute
 :::
 
 Can we add some examples here of student projects we've incorporated into our classes?
+
+
 
 
 # Project Based Learning (PBL)
